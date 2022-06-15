@@ -1,19 +1,3 @@
-# Dataset Saham IDX
-
-## Catatan
-
-Scraper yang digunakan untuk mengambil data tidak bisa menembus captcha dari Cloudflare saat membuka web IDX, maka dataset ini tidak akan diupdate sampai waktu yang belum ditentukan. Jika Anda bisa menemukan solusinya maka Anda dapat berkontribusi di repository saya yang lain di [sini](https://github.com/wildangunawan/IDX-Scrapper). 
-
-## Overview
-
-Projek ini bertujuan untuk menyediakan sebuah dataset untuk para researcher yang ingin belajar/meneliti lebih lanjut terutama mengenai time series analysis. Dataset ini diharapkan agar dapat digunakan untuk tujuan penelitian sekaligus agar dapat meningkatkan pemahaman akan data yang bersifat time series.
-
-Untuk mengetahui fungsi tiap-tiap kolom, silakan baca [Keterangan Nama Kolom](Keterangan%20Nama%20Kolom.md). Apabila Anda mengetahui atau ingin memperbaiki fungsi dari suatu kolom, silakan buka Pull Requests pada repositori ini.
-
-Apabila Anda ingin mengetahui bagaimana saya mengumpulkan data ini, kunjungi repositori saya yang berisi scrapper BEI di [sini](https://github.com/wildangunawan/IDX-Scrapper)
-
-## Kepemilikan Data
-
 Dataset ini diambil dan diolah dari website [PT Bursa Efek Indonesia](https://idx.co.id). Semua data yang ada dalam dataset adalah milik PT Bursa Efek Indonesia. Silakan mengacu pada [Syarat Penggunaan](https://idx.co.id/footer-menu/tautan-langsung/syarat-penggunaan/) yang dimiliki oleh PT Bursa Efek Indonesia.
 
 ### Penggunaan Untuk Komersial
