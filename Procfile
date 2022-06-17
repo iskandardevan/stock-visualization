@@ -1,1 +1,1 @@
-web: bokeh serve --port=$PORT --allow-websocket-origin=stocks-vis.herokuapp.com --address=0.0.0.0 --use-xheaders myapp.py
+web: bokeh serve --port=$PORT --allow-websocket-origin=top10bankstocks-visualization.herokuapp.com --address=0.0.0.0 --use-xheaders myapp.py
